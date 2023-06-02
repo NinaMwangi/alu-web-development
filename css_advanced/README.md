@@ -1,5 +1,7 @@
 CSS, advanced
 =============
+![a1c0cd3d90bcd37b9f7ae4f918cf4f7c](https://github.com/NinaMwangi/alu-web-development/assets/122353603/e133f11a-99aa-471f-ad68-e461391b895d)
+
 
 Requirements
 ------------
