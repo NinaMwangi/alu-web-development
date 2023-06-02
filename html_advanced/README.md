@@ -1,5 +1,6 @@
 HTML, Advanced
 ==============
+![88d09fcdc71906795597cb3192bd69c6](https://github.com/NinaMwangi/alu-web-development/assets/122353603/61377f54-9176-4e43-9d63-4d69bc91f1b6)
 
 Requirements
 ------------
@@ -11,12 +12,15 @@ You are not allowed to install, import or use external libraries. This website m
 Your code should be W3C compliant and validate with W3C-Validator****
 
 TASKS
+
 Iplementing from scratch a webpage from a designer file.
 This project is mainly focused on the HTML structure only.
 The designer file can be found on https://www.figma.com/file/dyYL6Ku4WG7vsdpwvlcJZC/Homepage?type=design&node-id=0-1&t=W8hc5pOlHynl5wEd-0
 
 Task 0 [README & Objectives]
+
 Write an amazing README.md and include an image
+
 
 Task 1 [Header]
 Create the HTML skeleton (html, head, body, etc.)
@@ -26,6 +30,7 @@ Add a link element with an image inside
 Add a block of 3 link elements
 
 Task 2 [Banner]
+
 Now, the banner under the header:
 Under the header, add a main element with inside a section element.
 In this section element, add:
@@ -41,6 +46,7 @@ In this section element, add:
 	A text
 
 Task 3 [Quote]
+
 Under the banner, we will add the quote block:
 The quote section is inside the main:
 Create a new section for the quote
@@ -52,6 +58,7 @@ Create a new section for the quote
 			A text
 
 Task 4 [videos]
+
 Let’s now add the videos list:
 New section with inside:
 	An heading tag
@@ -67,6 +74,7 @@ New section with inside:
 			A text
 
 Task 5 [Membership]
+
 Membership section is similar as the videos list:
 After the videos list section, add a new section containing:
 	An heading
@@ -77,6 +85,7 @@ After the videos list section, add a new section containing:
 	A button
 
 Task 6 [FAQ]
+
 The FAQ section is ending the page before the footer:
 Add a section for the FAQ with inside:
 	A block that contains 2 “row block”
@@ -86,6 +95,7 @@ Add a section for the FAQ with inside:
 		A text
 
 Task 7 [Footer]
+
 And… the footer!
 After the last section, outside of the main, add a footer:
 	A global block (used later for centering the footer content), inside this block:
